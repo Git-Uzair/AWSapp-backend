@@ -1,0 +1,4 @@
+.gosaas/
+database/__pycache__
+__pycache__/
+logs/
